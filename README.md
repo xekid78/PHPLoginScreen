@@ -16,5 +16,4 @@
 | エディタ | Atom 1.24.0 |
 | 開発言語 | HTML5 |
 | | CSS3 |
-| | Java Script |
 | | PHP 7.2.5 |
